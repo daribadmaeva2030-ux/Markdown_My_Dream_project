@@ -28,7 +28,7 @@ _ _ _
 The photo above me *why* I'm building this project to help protect places like this for future generations.
 _ _ _
 ## Final Thoughts
-** Coding** isn't just about making apps -its about *creating tools that make a difference.* With persistence, collabaratio, and bit of imagination, I believe I can turn EcoTrack into something real.
+**Coding** isn't just about making apps -its about *creating tools that make a difference.* With persistence, collabaratio, and bit of imagination, I believe I can turn EcoTrack into something real.
 _ _ _
 `git push`-my favorite command to share progress with the world!🚀
 
